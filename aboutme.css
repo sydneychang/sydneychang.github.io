@@ -15,5 +15,25 @@ body {
 
 
 .fa-linkedin {
-    color: #0077B5;
+    color: #0077B5; 
+}
+
+.fa-linkedin:hover {
+    color: rgba(0, 118, 181, 0.504);
+}
+
+.fa-envelope {
+    color: rgba(178, 49, 33, 0.7);
+}
+
+.fa-envelope:hover {
+    color: rgba(124, 23, 10, 0.504);
+}
+
+.fa-github {
+    color: #333;
+}
+
+.fa-github:hover {
+    color: rgb(100, 100, 100);
 }

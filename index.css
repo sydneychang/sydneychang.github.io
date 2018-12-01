@@ -31,6 +31,14 @@ h1 {
     color: rgba(178, 49, 33, 0.7);
 }
 
-.fa-at:hover {
-    color: #B23121;
+.fa-envelope:hover {
+    color: rgba(124, 23, 10, 0.504);
+}
+
+.fa-github {
+    color: #333;
+}
+
+.fa-github:hover {
+    color: rgb(100, 100, 100);
 }
