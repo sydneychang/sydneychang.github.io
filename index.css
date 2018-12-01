@@ -1,0 +1,36 @@
+html {
+    height: 100%
+}
+body {
+    background-image: url(background_image.PNG);
+    background-repeat: no-repeat;   
+    background-size: cover;
+    font-family: 'Fjalla One', sans-serif;
+    letter-spacing: 0.1rem;
+}
+
+.bg-dark {
+    background: rgba(51, 0, 0, 0.9) !important;
+}
+
+
+h1 {
+    color: white;
+    text-shadow: 2px 2px 2px rgba(175, 21, 21, 0.9);
+}
+
+.fa-linkedin {
+    color: #0077B5; 
+}
+
+.fa-linkedin:hover {
+    color: rgba(0, 118, 181, 0.504);
+}
+
+.fa-envelope {
+    color: rgba(178, 49, 33, 0.7);
+}
+
+.fa-at:hover {
+    color: #B23121;
+}
