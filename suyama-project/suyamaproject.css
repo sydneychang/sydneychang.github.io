@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;   
     background-size: cover;
     font-family: 'Fjalla One', sans-serif;
+    background-color: black;
 }
 
 .bg-dark {

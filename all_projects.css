@@ -4,6 +4,11 @@ body {
     background-size: cover;
     font-family: 'Fjalla One', sans-serif;
     letter-spacing: 0.1rem;
+    background-color: black;
+}
+
+h1 {
+    color: black;
 }
 
 .bg-dark {
