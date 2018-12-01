@@ -1,0 +1,19 @@
+body {
+    /* background-image: url(https://images.unsplash.com/photo-1543536481-bf91777453de?ixlib=rb-0.3.5&s=0ffde0e2185104506c349126c687951c&auto=format&fit=crop&w=1189&q=80); */
+    background-repeat: no-repeat;   
+    background-size: cover;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.bg-dark {
+    background: rgba(51, 0, 0, 0.9) !important;
+}
+
+.navbar {
+    letter-spacing: 0.1rem;
+}
+
+
+.fa-linkedin {
+    color: #0077B5;
+}
